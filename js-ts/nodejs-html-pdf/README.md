@@ -10,6 +10,10 @@ Frontend (Request) ⟸ Backend (Send file)
 
 `file-saver` dùng để `saveAs` (lưu file pdf)
 
+```
+npm i file-saver
+```
+
 ```tsx
 import { saveAs } from "file-saver"
 ...
@@ -22,6 +26,9 @@ saveAs(pdfBlob, "newPdf.pdf")
 
 `html-pdf` dùng để tạo file pdf từ html
 
+```
+npm i html-pdf
+```
 
 ```js
 pdf.create(pdfTemplate(req.body), {}).toFile("result.pdf", (err) => {
