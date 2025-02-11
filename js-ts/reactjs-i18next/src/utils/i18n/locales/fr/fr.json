@@ -1,0 +1,5 @@
+{
+  "welcomeMessage": "Bienvenue à React et react-i18next",
+  "welcomeMessage_other": "Vous avez {{count}} messages",
+  "welcomeMessage_html": "Bienvenue, <1>{{name}}</1>. Veuillez <2>cliquer ici</2> pour continuer."
+}
