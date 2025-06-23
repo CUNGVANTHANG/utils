@@ -4,7 +4,7 @@
 
 | | | | | |
 | :--: | :--: | :--: | :--: | :--: | 
-| [Convert HTML to PDF - NodeJS](/js-ts/nodejs-html-pdf/) | [Send Email - NodeJS](/js-ts/nodejs-send-email/) | --- | --- | --- |
+| [Convert HTML to PDF - NodeJS](/js-ts/nodejs-html-pdf/) | [Send Email - NodeJS](/js-ts/nodejs-send-email/) - Chua lam | --- | --- | --- |
 | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- |
@@ -24,7 +24,7 @@
 
 | | | | | |
 | :--: | :--: | :--: | :--: | :--: | 
-| [Login Facebook with Firebase - ReactJS](/js-ts/reactjs-login-facebook-firebase/) | [Drag and Drop interface - ReactJS](/js-ts/reactjs-drag-drop/) | --- | --- | --- |
+| [Login Facebook with Firebase - ReactJS](/js-ts/reactjs-login-facebook-firebase/) | [Drag and Drop interface - ReactJS](/js-ts/reactjs-drag-drop/) - Chua lam | [Multi-language](/js-ts/reactjs-i18next) | [Form Validation with YUP](/js-ts/reactjs-form-validations-with-yup) | --- |
 | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- |
@@ -44,7 +44,7 @@
 
 | | | | | |
 | :--: | :--: | :--: | :--: | :--: | 
-| [Send Email - NestJS](/js-ts/nestjs-send-email/) | --- | --- | --- | --- |
+| [Send Email - NestJS](/js-ts/nestjs-send-email/) - Chua lam | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- |
