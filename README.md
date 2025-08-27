@@ -4,7 +4,7 @@
 
 | | | | | |
 | :--: | :--: | :--: | :--: | :--: | 
-| [Convert HTML to PDF - NodeJS](/js-ts/nodejs-html-pdf/) | [Send Email - NodeJS](/js-ts/nodejs-send-email/) - Chua lam | --- | --- | --- |
+| [Convert HTML to PDF - NodeJS](/js-ts/nodejs-html-pdf/) | [Send Email - NodeJS](/js-ts/nodejs-send-email/) - Chua lam | [Json Web Token - NodeJs](/js-ts/nodejs-jwt/) | --- | --- |
 | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- |
